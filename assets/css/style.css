@@ -1,0 +1,128 @@
+body {
+    background: #ffffff;
+    font-family: 'Inconsolata', monospace;
+    padding: 10px;
+}
+
+img {
+    border: 10px solid white;
+}
+
+h1 {
+    padding: 10px;
+}
+
+ul {
+    padding: 15px;
+}
+
+li {
+    display: inline-block;
+    float: right;
+    margin-left: 20px;
+    font-size: 125%;
+    padding: 0px;
+}
+
+.container {
+    margin: auto;
+    width: 960px;
+    background: #f2f2f2;
+    padding: 10px
+}
+
+.heading {
+    margin: auto;
+    height: 80px;
+    background: #cacaca;
+    padding : 5px;
+    border: 10px solid white;
+}
+
+.myName {
+    font-size: 150%;
+    padding: 5px;
+
+
+}
+
+.main {
+    font-size: 150%;
+    padding: 10px;
+
+}
+#largeImage {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#text {
+    float: top;
+    font-size: 72%;
+    line-height: 1.4em;
+}
+
+
+.clear {
+    clear: both;
+}
+#suzdaily {
+    margin-top: 54px;
+    margin-left: 5px;
+    font-family: 'Unica One', cursive;
+    font-size: 170%;
+    float: left;
+}
+#bBakery {
+    margin-top: 54px;
+    font-family: 'Unica One', cursive;
+    font-size: 170%;
+    float: right;
+
+}
+.footer {
+    margin: auto;
+    height: 80px;
+    background: #cacaca;
+    padding : 5px;
+    border: 10px solid white;
+        }
+#contactHeading {
+    font-weight: bold;
+    padding: -1px;
+}
+
+#contactH1 {
+    padding: 0px;
+}
+
+feildset {
+    font-size: 50%;
+    padding: -15px;
+}
+
+label {
+    font-size: 65%;
+    padding: 5px;
+}
+
+a {
+    color:gray;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+a:links {
+    text-decoration: none;
+}
+
+    a:link {
+        text-decoration: none;
+    }
+
+.smallImages {
+    float: left;
+    padding: 14px;
+    padding-left: 43px;
+}
